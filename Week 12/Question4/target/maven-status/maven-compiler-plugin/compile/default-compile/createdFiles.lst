@@ -1,0 +1,3 @@
+com\election\committee\Main.class
+com\election\committee\InvalidAgeException.class
+com\election\committee\Person.class
