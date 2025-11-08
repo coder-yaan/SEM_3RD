@@ -10,7 +10,7 @@ public class Main {
 
         String url = "jdbc:mysql://127.0.0.1:3306/?user=root";
         String user = "root";
-        String password = "Ayan7860Khan!";
+        String password = "mAiPassWordHu67!";
 
         try {
             // Loading JDBC Driver
